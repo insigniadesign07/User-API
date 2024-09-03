@@ -27,3 +27,18 @@ Follow these steps to set up and run the project on your local machine:
 
    ```bash
    git clone https://github.com/insigniadesign07/User-API.git
+
+
+   ## Postman Collection
+
+The Postman collection used for testing the API can be found in the `postman Rest API` directory.
+
+### How to Use:
+
+1. Download and install [Postman](https://www.postman.com/).
+2. Import the collection by going to `File -> Import` in Postman.
+3. Choose the `REST API basics- CRUD, test & variable.postman_collection.json` file from the `postman` directory.
+4. The collection will now be available in your Postman workspace.
+5. Use the requests in the collection to test the API endpoints.
+
+
